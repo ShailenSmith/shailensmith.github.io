@@ -18,7 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a first-year Computer Science PhD Student at Dartmouth College working with Professor Adam Breuer. I am interested in machine learning theory, privacy in AI, and natural language processing.
+Hi! I'm a first-year Computer Science PhD Student at Dartmouth College working with Professor Adam Breuer. I am interested in machine learning theory, data privacy, and natural language processing. I completed my undergrad in May 2024 from Stony Brook University in Mathematics.
+
+At Stony Brook, I researched human-aware autoencoding LLMs under Professor H. Andrew Schwartz, with mentorship from Adithya V. Ganesan and Nikita Soni.
+
+As a member of the 2023 LS&T REU at Worcester Polytechnic Institute (WPI), 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
