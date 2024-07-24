@@ -42,6 +42,13 @@
       "startDate": "2024-09-15",
       "endDate": "",
       "courses": ["Advised by Adam Breuer"]
+    },
+    {
+      "institution": "Stony Brook University",
+      "location": "Stony Brook, New York",
+      "studyType": "B.S. in Mathematics",
+      "startDate": "2020-08-24",
+      "endDate": "2024-05-17"
     }
   ],
   "awards": [
