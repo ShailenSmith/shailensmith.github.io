@@ -10,4 +10,4 @@ Announcements and news can be much longer than just quick inline posts. In fact,
 
 ---
 
-<a href="/pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="/assets/pdf/honorsthesis.pdf"></a>
