@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Computer Science</p>
+    <p>Dartmouth College</p>
+    <p>Hanover, NH 03755</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,7 +22,11 @@ Hi! I'm a first-year Computer Science PhD Student at Dartmouth College working w
 
 At Stony Brook, I researched human-aware autoencoding LLMs under Professor H. Andrew Schwartz, with mentorship from Adithya V. Ganesan and Nikita Soni.
 
-As a member of the 2023 LS&T REU at Worcester Polytechnic Institute (WPI), 
+In summer 2023, under Professor Neil Heffernan and PhD student Morgan Lee at Worcester Polytechnic Institue (WPI), I trained a Bayesian Knowledge Tracing model to predict student mastery of class content for use in the ASSISTments educational technology platform. In summer 2022, I researched in algorithmic fairness at WPI under Professor Elke Rundensteiner and PhD student Kathleen Cachel.
+
+Outside of research, I have a passion for math education and environmentalism. For the past two years at Stony Brook, I was a Lead Tutor at the Academic Success and Tutoring Center, where I helped mentor newer tutors, and I was Treasurer for the Stony Brook Environmental Club.
+
+In my free time, I enjoy chess, Scrabble, tennis, piano, funk music, and rock climbing.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
