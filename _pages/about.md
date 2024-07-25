@@ -18,13 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a first-year Computer Science PhD Student at Dartmouth College working with Professor Adam Breuer. I am interested in machine learning theory, data privacy, and natural language processing. I completed my undergrad in May 2024 from Stony Brook University in Mathematics.
+Hi! I'm a first-year Computer Science PhD Student at Dartmouth College working with Professor [Adam Breuer](https://www.adambreuer.com/). I am interested in machine learning theory, data privacy, and natural language processing. I completed my undergrad in May 2024 from Stony Brook University in Mathematics.
 
-At Stony Brook, I researched human-aware autoencoding LLMs under Professor H. Andrew Schwartz, with mentorship from Adithya V. Ganesan and Nikita Soni.
+At Stony Brook, I researched human-aware autoencoding LLMs under Professor [H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/), with mentorship from Adithya V. Ganesan and Nikita Soni.
 
-In summer 2023, under Professor Neil Heffernan and PhD student Morgan Lee at Worcester Polytechnic Institue (WPI), I trained a Bayesian Knowledge Tracing model to predict student mastery of class content for use in the ASSISTments educational technology platform. In summer 2022, I researched in algorithmic fairness at WPI under Professor Elke Rundensteiner and PhD student Kathleen Cachel.
+In summer 2023, under Professor [Neil Heffernan](https://neilheffernan.net/) and PhD student Morgan Lee at Worcester Polytechnic Institue (WPI), I trained a Bayesian Knowledge Tracing model to predict student mastery of class content for use in the ASSISTments educational technology platform. In summer 2022, I researched in algorithmic fairness at WPI under Professor Elke Rundensteiner and PhD student Kathleen Cachel.
 
-Outside of research, I have a passion for math education and environmentalism. For the past two years at Stony Brook, I was a Lead Tutor at the Academic Success and Tutoring Center, where I helped mentor newer tutors, and I was Treasurer for the Stony Brook Environmental Club.
+Outside of research, I have a passion for math education and environmentalism. For the past two years at Stony Brook, I was a Lead Tutor at the [Academic Success and Tutoring Center](https://www.stonybrook.edu/commcms/academic_success/), and I was Treasurer for the Stony Brook Environmental Club.
 
 In my free time, I enjoy chess, Scrabble, tennis, piano, funk music, and rock climbing.
 
