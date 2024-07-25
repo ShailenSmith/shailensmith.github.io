@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>pronounced shay-lin</p>
-    <p></p>
+    <p> </p>
     <p>he/him</p>
 
 news: true # includes a list of news items
