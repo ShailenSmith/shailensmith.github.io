@@ -12,6 +12,30 @@
     ]
   },
 
+  "past research": [
+    {
+      "name": "Human Language Analysis Lab",
+      "position": "NLP Research Intern",
+      "startDate": "2023-08-28",
+      "endDate": "2024-05-15",
+      "courses": ["Advised by H. Andrew Schwartz"]
+    },
+    {
+      "name": "Learning Sciences and Technologies Lab, Worcester Polytechnic Institute (WPI)",
+      "position": "Summer REU Intern",
+      "startDate": "05-30-2023",
+      "endDate": "08-10-2023",
+      "courses": ["Advised by Neil Heffernan"]
+    },
+    {
+      "name": "Data Science Lab, WPI",
+      "position": "Summer REU Intern",
+      "startDate": "05-30-2022",
+      "endDate": "08-10-2022",
+      "courses": ["Advised by Elke Rundensteiner"]
+    }
+  ],
+
  "education": [
     {
       "institution": "Dartmouth College",
@@ -27,7 +51,7 @@
       "studyType": "B.S. in Mathematics",
       "startDate": "2020-08-24",
       "endDate": "2024-05-17"
-    }
+    },
   ],
   
   "teaching": [
@@ -44,6 +68,13 @@
       "startDate": "08-15-2018",
       "endDate": "01-22-2023",
       "summary": "Managed and taught individualized math curricula for K-12 students in collaboration with a team of fellow instructors. Trained fellow instructors in the Mathnasium@Home teaching platform to facilitate virtual transition in Spring 2020.",
+    },
+    {
+      "name": "AwesomeMath Summer Program",
+      "position": "Teaching Assistant",
+      "startDate": "06-20-2021",
+      "endDate": "8-5-2021",
+      "summary": "Graded classwork with detailed feedback, led problem sessions, and monitored engagement in an international online number theory course for advanced middle and high school students.",
     }
   ],
   "outreach and service": [
