@@ -20,7 +20,7 @@ Hi! I'm a first-year Computer Science PhD Student at Dartmouth College working w
 
 At Stony Brook, I researched human-aware autoencoding LLMs under Professor [H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/), with mentorship from Adithya V. Ganesan and Nikita Soni.
 
-In summer 2023, under Professor [Neil Heffernan](https://neilheffernan.net/) and PhD student Morgan Lee at Worcester Polytechnic Institue (WPI), I trained a Bayesian Knowledge Tracing model to predict student mastery of class content for use in the ASSISTments educational technology platform. In summer 2022, I researched in algorithmic fairness at WPI under [Professor Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and PhD student Kathleen Cachel.
+In summer 2023, under Professor [Neil Heffernan](https://www.neilheffernan.net/home) and PhD student Morgan Lee at Worcester Polytechnic Institue (WPI), I trained a Bayesian Knowledge Tracing model to predict student mastery of class content for use in the ASSISTments educational technology platform. In summer 2022, I researched in algorithmic fairness at WPI under [Professor Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and PhD student Kathleen Cachel.
 
 Outside of research, I have a passion for math education and environmentalism. For the past two years at Stony Brook, I was a Lead Tutor at the [Academic Success and Tutoring Center](https://www.stonybrook.edu/commcms/academic_success/), and I was Treasurer for the Stony Brook Environmental Club.
 
