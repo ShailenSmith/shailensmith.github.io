@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: This page is a WIP.
+description: To access my 2023 senior thesis on Autoencoder Human Language Modeling, please go to my latest news post.
 nav: true
 nav_order: 2
 ---
