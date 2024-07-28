@@ -14,8 +14,7 @@ This type of "human-aware" approach could help autoencoder LMs gain a better und
 
 A big thanks to my PhD student mentors Nikita Soni and Adithya Ganesan, and to my advisor, Professor H. Andrew Schwartz, on their continuous guidance and support through an incredibly cool NLP project.
 
-I would love if you gave it a read!
+The thesis can be accessed through my <a href="https://www.linkedin.com/posts/shailen-smith_autoencoder-human-language-modeling-activity-7196613851268685825-c45A?utm_source=share&utm_medium=member_desktop">Linkedin post</a>. I would love if you gave it a read!
 
 ---
 
-<a href="/assets/pdf/honorsthesis.pdf"></a>
