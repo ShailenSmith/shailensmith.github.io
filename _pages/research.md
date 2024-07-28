@@ -1,18 +1,18 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /research/
+title: research
 description: To access my 2024 senior thesis on Autoencoder Human Language Modeling, please go to my latest news post.
 nav: true
 nav_order: 2
 ---
 
+My main research interests include:
+- 
+
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
+## publications
 <div class="publications">
 
 {% bibliography %}
