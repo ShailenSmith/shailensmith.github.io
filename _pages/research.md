@@ -2,13 +2,15 @@
 layout: page
 permalink: /research/
 title: research
-description: To access my 2024 senior thesis on Autoencoder Human Language Modeling, please go to my latest news post.
+description: 
 nav: true
 nav_order: 2
 ---
 
+To access my 2024 senior thesis on Autoencoder Human Language Modeling, please go to my latest news post.
+
 My main research interests include:
-- 
+
 
 <!-- _pages/publications.md -->
 
