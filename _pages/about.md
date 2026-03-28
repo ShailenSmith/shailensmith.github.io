@@ -16,7 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a first-year Computer Science PhD Student at Dartmouth College working with Professor [Adam Breuer](https://www.adambreuer.com/). I am interested in machine learning theory, data privacy, and natural language processing. I completed my undergrad in May 2024 from Stony Brook University in Mathematics.
+Hi! I'm a second-year Computer Science PhD Student at Dartmouth College advised by Professor [Adam Breuer](https://www.adambreuer.com/). I am interested broadly in AI privacy, robustness, and interpretability. I completed my undergrad in May 2024 from Stony Brook University in Mathematics.
+
+With the Breuer lab, my current research explores the effect of adversarial robustness on model inversion attacks (MIAs) for deep facial classification models. Our recent paper, ["Reducing information dependency does not cause training data privacy. Adversarially non-robust features do"](https://openreview.net/forum?id=BnEG8pn3pK), was recently accepted by ICLR 2026 (I will be attending, come say hi!).
 
 At Stony Brook, I researched human-aware autoencoding LLMs under Professor [H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/), with mentorship from Adithya V. Ganesan and Nikita Soni.
 
