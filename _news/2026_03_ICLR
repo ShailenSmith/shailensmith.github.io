@@ -1,0 +1,19 @@
+---
+layout: post
+title: My paper "Reducing information dependency does not cause training data privacy. Adversarially non-robust features do" has been accepted at ICLR '26!
+date: 2026-03-28
+inline: false
+related_posts: false
+---
+
+My new paper with Rasmus Torp and Adam Breuer, "Reducing information dependency does not cause training data privacy. Adversarially non-robust features do", has been accepted at ICLR '26!
+
+The success of AI privacy attacks, in which a powerful adversary seeks to recover original training data solely from access to a trained AI model, is often intuitively considered a consequence of a model excessively 'depending on' or 'memorizing' the training data. In this paper, we challenge this prevailing view, showing that this does not hold true for model inversion attacks (MIAs), a common type of privacy attack on deep facial classification models.
+
+Instead, we present converging correlational and causal evidence that privacy leakage under MIA is governed by a model's adversarial robustness, i.e. how easily a model can be fooled by small, imperceptible changes to its input. These results revise the prevailing understanding of training data exposure and reveal a new privacy-robustness tradeoff.
+
+Here's a [link](https://openreview.net/forum?id=BnEG8pn3pK&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), I'd love if you gave it a read!
+
+
+---
+
