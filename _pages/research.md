@@ -7,7 +7,10 @@ nav: true
 nav_order: 2
 ---
 
-To access my 2024 senior thesis on Autoencoder Human Language Modeling, please go to my latest news post.
+I am broadly interested in AI safety, security, and trustworthiness. I've most recently been focusing on intersections between the following fields:
+- Training data privacy -- model inversion, data extraction from generative models
+- Robustness -- adversarial examples/training, semantic meaning of features
+- Interpretability -- feature attribution, representation inversion, concept-based approaches
 
 
 <!-- _pages/publications.md -->
