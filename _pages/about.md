@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Dartmouth College
+subtitle: CS PhD Student, Dartmouth College
 
 profile:
   align: right
